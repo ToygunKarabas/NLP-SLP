@@ -5,6 +5,7 @@ ipykernel
 
 pandas
 numpy
+matplotlib
 plotly
 joblib
 scikit-learn
@@ -26,3 +27,5 @@ SpeechRecognition
 pydub
 nltk 
 spacy
+librosa 
+soundfile
