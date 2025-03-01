@@ -9,6 +9,8 @@ matplotlib
 plotly
 joblib
 scikit-learn
+xgboost
+lightgbm
 torch
 torchvision
 torchaudio
