@@ -2,6 +2,7 @@ python-dotenv
 openpyxl
 IPython
 ipykernel
+ipywidgets
 
 pandas
 numpy
@@ -14,6 +15,8 @@ lightgbm
 torch
 torchvision
 torchaudio
+torchsummary
+torchinfo
 tensorflow
 keras
 
@@ -23,6 +26,7 @@ tokenizers
 evaluate
 accelerate
 sentence_transformers
+FlagEmbedding
 
 langdetect
 SpeechRecognition
@@ -36,4 +40,6 @@ jiwer
 wordcloud
 zeyrek
 
-FlagEmbedding
+optuna
+skorch
+ray
