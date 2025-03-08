@@ -1,7 +1,7 @@
 nlp_slp_env/
 datasets/
 dev.ipynb
-nlp_spacy_models.pkl
+nlp_spacy_models.pkl 
 
 # Ignore Mac DS_Store files
 .DS_Store
