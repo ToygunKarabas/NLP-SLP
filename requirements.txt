@@ -44,3 +44,9 @@ zeyrek
 optuna
 skorch
 ray
+
+peft
+bitsandbytes
+xformer
+unsloth
+trl
