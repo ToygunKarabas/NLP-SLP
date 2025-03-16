@@ -60,15 +60,15 @@ From this dataset 5 languages are selected:
 
     6.2. Fine tuning 'xlm-roberta-large' model with Transfer Learning approach
         
-    6.2.1. Fine tuning only classification head of 'xlm-roberta-large' and call it teacher model
+    ***6.2.1. Fine tuning only classification head of 'xlm-roberta-large' and call it teacher model***
 
-    6.2.2. Fine tuning 'bert-base-multilingual-cased' with teacher learning approach using above teacher model
+    ***6.2.2. Fine tuning 'bert-base-multilingual-cased' with teacher learning approach using above teacher model***
 
     6.3. Fine tuning 'xlm-roberta-large' model with Parameter Efficient Fine Tuning (PEFT)
         
-    6.3.1. Low Rank Adaptation approach (LoRA)
+    ***6.3.1. Low Rank Adaptation approach (LoRA)***
 
-    6.3.2. Quantized Low Rank Adaptation approach (QLoRA)
+    ***6.3.2. Quantized Low Rank Adaptation approach (QLoRA)***
 
     6.4. Fine tuning 'google/gemma-3-1b-pt' model with Parameter Efficient Fine Tuning (PEFT)
 
